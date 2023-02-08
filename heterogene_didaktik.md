@@ -1,4 +1,4 @@
-<sub> zuletzt aktualisiert am 08.02.2023, 17.00 Uhr </sub>
+<sub> zuletzt aktualisiert am 08.02.2023, 17:03 Uhr von Linda Kuhr </sub>
 
 # **Literatur zum Seminar Didaktik in heterogenen Lerngruppen**
 
