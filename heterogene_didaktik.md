@@ -8,6 +8,8 @@ Bönsch, M. (2004). *Differenzierung in Schule und Unterricht*. Oldenbourg Wisse
 
 Bönsch, M. (2008). *Intelligente Unterrichtsstrukturen. Eine Einführung in die Differenzierung.* Schneider-Verlag. 3. Auflage.
 
+Budde, J. (2012). Problematisierende Perspektiven auf Heterogenität alsambivalentes Thema der Schul- und Unterrichtsforschung. *Zeitschrift für Pädagogik*, 58(4), 522-540.
+
 Dave, R. H.(1968). Eine Taxonomie pädagogischer Ziele und ihre Beziehung zur Leistungsmessung. K. Ingenkamp und Th. Marsolek (Hrsg.). *Möglichkeiten und Grenzen der Testanwendung in der Schule.* Beltz.
 
 Decristan, J., Kunter, M., Fauth, B., Büttner, G., Hardy, I. & Hertel, S. (2016). What role does instructional quality play for elementary school children’s science competence? A focus on students at risk. *Journal of Educational Research Online*, 8 (1), 66–89.
