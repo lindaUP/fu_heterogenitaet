@@ -18,5 +18,5 @@ Krathwohl, D., Bloom, B., Masia, B. (1975). *Taxonomie von Lernzielen im affekti
 
 Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und Materialien für den gemeinsamen Unterricht*. Verlagsgruppe Beltz.
 
-Reusser, K., Stebler, R., Mandel, D. (2015). Heterogene Lerngruppen unterrichten - maßgeschneiderte Angebote für kompetenzorientiertes Lernen. C. Villinger und G. Trautwein (Hrsg). *Zwischen Theorie und Praxis. Ansprüche und Möglichkeiten in der Lehrer(innen)bildung : Festschrift zum 65. Geburtstag von Alois Niggli.* Waxmann-223-242.
+Reusser, K., Stebler, R., Mandel, D. (2015). Heterogene Lerngruppen unterrichten - maßgeschneiderte Angebote für kompetenzorientiertes Lernen. C. Villinger und U. Trautwein (Hrsg). *Zwischen Theorie und Praxis. Ansprüche und Möglichkeiten in der Lehrer(innen)bildung : Festschrift zum 65. Geburtstag von Alois Niggli.* Waxmann-223-242.
 
