@@ -1,5 +1,7 @@
 # **Literatur zum Seminar Didaktik in heterogenen Lerngruppen**
 
+<sub> fett hervorgehoben sind Quellen, die sich spezifisch auf einzelne Fachdidaktiken beziehen </sub>
+
 Baumgartner, P. (2014). Taxonomie von Unterrichtsmethoden. Ein Plädoyer für didaktische Vielfalt. Münster: Waxmann Verlag.
 
 Becker, B. & Ewering, T. (2021). *Praxisleitfaden Kooperatives Lernen und Heterogenität*. Verlagsgruppe Beltz.
@@ -22,3 +24,4 @@ Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und
 
 Reusser, K., Stebler, R., Mandel, D. (2015). Heterogene Lerngruppen unterrichten - maßgeschneiderte Angebote für kompetenzorientiertes Lernen. C. Villinger und U. Trautwein (Hrsg). *Zwischen Theorie und Praxis. Ansprüche und Möglichkeiten in der Lehrer(innen)bildung : Festschrift zum 65. Geburtstag von Alois Niggli.* Waxmann-223-242.
 
+**Sasse, A., Schulzeck, U. (Hrsg) (2021). *Inklusiven Unterricht planen, gestalten und reflektieren. Die Differenzierungsmatrix in Theorie und Praxis.* Lernen inklusiv und kooperativ, Band 1.  Verlag Julius Klinkhardt.**
