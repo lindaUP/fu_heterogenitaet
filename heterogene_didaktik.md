@@ -1,3 +1,5 @@
+<sub> zuletzt aktualisiert am 08.02.2023, 17.00 Uhr </sub>
+
 # **Literatur zum Seminar Didaktik in heterogenen Lerngruppen**
 
 <sub> fett hervorgehoben sind Quellen, die sich spezifisch auf einzelne Fachdidaktiken beziehen </sub>
