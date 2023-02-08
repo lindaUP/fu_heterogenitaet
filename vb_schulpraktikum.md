@@ -1,7 +1,8 @@
+<sub> zuletzt aktualisiert am 08.02.2023, 17:02 von Linda Kuhr </sub>
+
 # **Literatur zum Seminar Vorbreitung des Schulpraktikums im Modul Unterrichten in heterogenen Lerngruppen**
 
 <sub> fett hervorgehoben sind Bücher, die fachdidaktische Spezifikationen enthalten </sub>
-
 
 Amrhein, B., Dziak-Mahler, M. (Hrsg.) (2014). *Fachdidaktik inklusiv. Auf der Suche nach didaktischen Leitlinien für den Umgang mit Vielfalt in der Schule*. Band 3. Waxmann.
 
