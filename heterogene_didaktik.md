@@ -10,4 +10,6 @@ Decristan, J., Kunter, M., Fauth, B., Büttner, G., Hardy, I. & Hertel, S. (2016
 
 Kampshoff, M. & Wiepcke, C. (Hrsg.) (2021). *Vielfalt in Schule und Unterricht, Konzepte und  Debatten im Zeichen der Heterogenität.* W. Kohlhammer GmbH. 
 
+Krathwohl, D.; Bloom, B.; Masia, B. (1975). *Taxonomie von Lernzielen im affektiven Bereich*. Weinheim, Basel: Beltz Verlag.
+
 Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und Materialien für den gemeinsamen Unterricht*. Verlagsgruppe Beltz.
