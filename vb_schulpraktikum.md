@@ -28,4 +28,4 @@ Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und
 
 
 
-**fett hervorgehoben sind Bücher, die fachdidaktische Spezifikationen enthalten**
+<sub> fett hervorgehoben sind Bücher, die fachdidaktische Spezifikationen enthalten </sub>
