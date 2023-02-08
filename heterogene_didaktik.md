@@ -1,4 +1,4 @@
-#**Literatur zum Seminar Didaktik in heterogenen Lerngruppen**
+# **Literatur zum Seminar Didaktik in heterogenen Lerngruppen**
 
 Becker, B. & Ewering, T. (2021). *Praxisleitfaden Kooperatives Lernen und Heterogenität*. Verlagsgruppe Beltz.
 
