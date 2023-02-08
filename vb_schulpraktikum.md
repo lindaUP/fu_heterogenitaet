@@ -1,5 +1,8 @@
 # **Literatur zum Seminar Vorbreitung des Schulpraktikums im Modul Unterrichten in heterogenen Lerngruppen**
 
+<sub> fett hervorgehoben sind Bücher, die fachdidaktische Spezifikationen enthalten </sub>
+
+
 Amrhein, B., Dziak-Mahler, M. (Hrsg.) (2014). *Fachdidaktik inklusiv. Auf der Suche nach didaktischen Leitlinien für den Umgang mit Vielfalt in der Schule*. Band 3. Waxmann.
 
 Becker, B. & Ewering, T. (2021). *Praxisleitfaden Kooperatives Lernen und Heterogenität*. Verlagsgruppe Beltz.
@@ -24,8 +27,3 @@ Kiper, H., Miller, S., Palentien, C., Rohlfs, C. (Hrsg.) (2008). Lernarrangement
 Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und Materialien für den gemeinsamen Unterricht*. Verlagsgruppe Beltz.
 
 **Sasse, A., Schulzeck, U. (Hrsg) (2021). *Inklusiven Unterricht planen, gestalten und reflektieren. Die Differenzierungsmatrix in Theorie und Praxis.* Lernen inklusiv und kooperativ, Band 1.  Verlag Julius Klinkhardt.**
-
-
-
-
-<sub> fett hervorgehoben sind Bücher, die fachdidaktische Spezifikationen enthalten </sub>
