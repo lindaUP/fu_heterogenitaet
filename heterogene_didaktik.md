@@ -17,3 +17,6 @@ Kampshoff, M. & Wiepcke, C. (Hrsg.) (2021). *Vielfalt in Schule und Unterricht, 
 Krathwohl, D., Bloom, B., Masia, B. (1975). *Taxonomie von Lernzielen im affektiven Bereich*. Beltz Verlag.
 
 Müller, F. (2008). *Praxisbuch Differenzierung und Heterogenität: Methoden und Materialien für den gemeinsamen Unterricht*. Verlagsgruppe Beltz.
+
+Reusser, K., Stebler, R., Mandel, D. (2015). Heterogene Lerngruppen unterrichten - maßgeschneiderte Angebote für kompetenzorientiertes Lernen. C. Villinger und G. Trautwein (Hrsg). *Zwischen Theorie und Praxis. Ansprüche und Möglichkeiten in der Lehrer(innen)bildung : Festschrift zum 65. Geburtstag von Alois Niggli.* Waxmann-223-242.
+
